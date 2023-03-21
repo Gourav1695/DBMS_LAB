@@ -1,2 +1,2 @@
 # DBMS_LAB
-Here I will uploard the files of DBMS lab
+Here I will upload the files of DBMS lab
